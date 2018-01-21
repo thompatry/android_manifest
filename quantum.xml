@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <include name="manifests/bootable.xml"/>
+  <include name="manifests/build.xml"/>
+  <include name="manifests/device.xml"/>
+  <include name="manifests/external.xml"/>
+  <include name="manifests/frameworks.xml"/>
+  <include name="manifests/hardware.xml"/>
+  <include name="manifests/kernel.xml"/>
+  <include name="manifests/native.xml"/>
+  <include name="manifests/obsolete_projects.xml"/>
+  <include name="manifests/packages.xml"/>
+  <include name="manifests/system.xml"/>
+  <include name="manifests/vendor.xml"/>
+</manifest>

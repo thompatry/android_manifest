@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="vendor/google_devices/taimen" name="android_vendor_google_devices_taimen" remote="quantum-taimen" groups="quantum"/>
+  <remove-project name="platform/vendor/qcom-opensource/bluetooth"/>
+  <project path="vendor/qcom-opensource/bluetooth" name="android_vendor_qcom-opensource_bluetooth" remote="quantum-caf" groups="quantum"/>
+  <project path="vendor/qcom/sdclang-3.9/linux-x86" name="android_vendor_qcom_sdclang-3.9_linux-x86" remote="quantum-caf" groups="quantum"/>
+  <project path="vendor/qcom/sdclang-4.0/linux-x86" name="android_vendor_qcom_sdclang-4.0_linux-x86" remote="quantum-caf" groups="quantum"/>
+  <project path="vendor/quantum" name="android_vendor_quantum" remote="quantum-taimen" groups="quantum"/>
+<manifest/>

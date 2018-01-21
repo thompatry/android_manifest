@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="kernel/google/wahoo" name="kernel_google_wahoo" remote="quantum-aosp" groups="quantum"/>
+</manifest>

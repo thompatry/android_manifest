@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="platform/system/bt"/>
+  <project path="system/bt"  name="android_system_bt" remote="quantum-caf" groups="quantum"/>
+  <remove-project name="platform/system/core"/>
+  <project path="system/core"  name="android_system_core" remote="quantum-caf" groups="quantum"/>
+  <remove-project name="platform/system/netd"/>
+  <project path="system/netd"  name="android_system_netd" remote="quantum-caf" groups="quantum"/>
+  <remove-project name="platform/system/sepolicy"/>
+  <project path="system/sepolicy"  name="android_system_sepolicy" remote="quantum-caf" groups="quantum"/>
+  <remove-project name="platform/system/tools/hidl"/>
+  <project path="system/tools/hidl"  name="android_system_tools_hidl" remote="quantum-caf" groups="quantum"/>
+</manifest>

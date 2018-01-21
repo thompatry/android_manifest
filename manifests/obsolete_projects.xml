@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="abl/tianocore/edk2"/>
+  <remove-project name="device/qcom/sepolicy"/>
+  <remove-project name="kernel/msm-4.4"/>
+  <remove-project name="platform/hardware/qcom/gps"/>
+  <remove-project name="platform/hardware/qcom/thermal"/>
+  <remove-project name="platform/hardware/stm"/>
+  <remove-project name="platform/vendor/qcom-opensource/data-ipa-cfg-mgr"/>
+  <remove-project name="platform/vendor/qcom-opensource/location"/>
+  <remove-project name="platform/vendor/qcom-opensource/wlan/fw-api"/>
+  <remove-project name="platform/vendor/qcom-opensource/wlan/qca-wifi-host-cmn"/>
+  <remove-project name="platform/vendor/qcom-opensource/wlan/qcacld-3.0"/>
+  <remove-project name="platform/vendor/qcom-opensource/wlan/utils/sigma-dut"/>
+  <remove-project name="platform/vendor/qcom/cobalt"/>
+  <remove-project name="platform/vendor/qcom/falcon_32"/>
+  <remove-project name="platform/vendor/qcom/falcon_64"/>
+  <remove-project name="platform/vendor/qcom/thulium"/>
+</manifest>

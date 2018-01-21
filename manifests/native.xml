@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="platform/art"/>
+  <project path="system/art"  name="android_art" remote="quantum-caf" groups="quantum"/>
+  <remove-project name="platform/bionic"/>
+  <project path="system/bionic"  name="android_bionic" remote="quantum-caf" groups="quantum"/>
+  <remove-project name="platform/libcore"/>
+  <project path="system/libcore"  name="android_libcore" remote="quantum-caf" groups="quantum"/>
+</manifest>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="platform/external/libnl"/>
+  <project path="external/libnl" name="android_external_libnl" remote="quantum-caf" groups="quantum"/>
+  <remove-project name="platform/external/llvm"/>
+  <project path="external/llvm" name="android_external_llvm" remote="quantum-caf" groups="quantum"/>
+  <remove-project name="platform/external/selinux"/>
+  <project path="external/selinux" name="android_external_selinux" remote="quantum-caf" groups="quantum"/>
+  <remove-project name="platform/external/skia"/>
+  <project path="external/skia" name="android_external_skia" remote="quantum-caf" groups="quantum"/>
+</manifest>

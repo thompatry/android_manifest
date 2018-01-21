@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="platform/packages/apps/Bluetooth"/>
+  <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="quantum-caf" groups="quantum"/>
+  <remove-project name="platform/packages/apps/Dialer"/>
+  <project path="packages/apps/Dialer" name="android_packages_apps_Dailer" remote="quantum-caf" groups="quantum"/>
+  <remove-project name="platform/packages/apps/DeskClock"/>
+  <project path="packages/apps/DeckClock" name="android_packages_apps_DeskClock" remote="quantum-caf" groups="quantum"/>
+  <remove-project name="platform/packages/apps/DocumentsUI"/>
+  <project path="packages/apps/DocumentsUI" name="android_packages_apps_DocumentsUI" remote="quantum-caf" groups="quantum"/>
+  <remove-project name="platform/packages/apps/Camera2"/>
+  <project path="packages/apps/QuantumCamera" name="android_packages_apps_QuantumCamera" remote="quantum-caf" groups="quantum"/>
+  <remove-project name="platform/packages/apps/SnapdragonGallery"/>
+  <project path="packages/apps/QuantumGallery" name="android_packages_apps_QuantumGallery" remote="quantum-caf" groups="quantum"/>
+  <remove-project name="platform/packages/apps/Launcher3"/>
+  <project path="packages/apps/QuantumLauncher" name="android_packages_apps_QuantumLauncher" remote="quantum-caf" groups="quantum"/>
+  <remove-project name="platform/packages/apps/Mms"/>
+  <project path="packages/apps/QuantumMessages" name="android_packages_apps_QuantumMessages" remote="quantum-caf" groups="quantum"/>
+  <remove-project name="platform/packages/apps/SnapdragonMusic"/>
+  <project path="packages/apps/QuantumMusic" name="android_packages_apps_QuantumMusic" remote="quantum-caf" groups="quantum"/>
+  <remove-project name="platform/packages/apps/SoundRecorder"/>
+  <project path="packages/apps/QuantumSoundRecorder" name="android_packages_apps_QuantumSoundRecorder" remote="quantum-caf" groups="quantum"/>
+  <project path="packages/apps/QuantumWallpapers" name="android_packages_apps_QuantumWallpapers" remote="quantum" groups="quantum"/>
+  <remove-project name="platform/packages/apps/Settings"/>
+  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="quantum-caf" groups="quantum"/>
+  <remove-project name="platform/packages/services/Telecomm"/>
+  <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="quantum-caf" groups="quantum"/>
+  <remove-project name="platform/packages/services/Telephony"/>
+  <project path="packages/services/Telephony" name="android_packages_apps_Telephony" remote="quantum-caf" groups="quantum"/>
+</manifest>
