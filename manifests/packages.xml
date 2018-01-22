@@ -25,5 +25,5 @@
   <remove-project name="platform/packages/services/Telecomm"/>
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="quantum-caf" groups="quantum"/>
   <remove-project name="platform/packages/services/Telephony"/>
-  <project path="packages/services/Telephony" name="android_packages_apps_Telephony" remote="quantum-caf" groups="quantum"/>
+  <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="quantum-caf" groups="quantum"/>
 </manifest>
