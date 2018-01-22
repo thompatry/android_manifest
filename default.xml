@@ -12,6 +12,9 @@
   <remote  name="quantum-caf"
            fetch="ssh://git@github.com/QuantumTech"
            revision="quantum/QC8998_O_8.1.0"/>
+  <remote  name="quantum-taimen"
+           fetch="ssh://git@github.com/QuantumTech"
+           revision="taimen/QOS_O_8.1.0"/>
   <default revision="refs/tags/LA.UM.6.4.r1-05900-8x98.0"
            remote="caf"
            sync-j="4"
