@@ -20,7 +20,6 @@
   <project path="packages/apps/QuantumMusic" name="android_packages_apps_QuantumMusic" remote="quantum-caf" groups="quantum"/>
   <remove-project name="platform/packages/apps/SoundRecorder"/>
   <project path="packages/apps/QuantumSoundRecorder" name="android_packages_apps_QuantumSoundRecorder" remote="quantum-caf" groups="quantum"/>
-  <project path="packages/apps/QuantumWallpapers" name="android_packages_apps_QuantumWallpapers" remote="quantum" groups="quantum"/>
   <remove-project name="platform/packages/apps/Settings"/>
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="quantum-caf" groups="quantum"/>
   <remove-project name="platform/packages/services/Telecomm"/>
