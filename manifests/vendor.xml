@@ -6,4 +6,4 @@
   <project path="vendor/qcom/sdclang-3.9/linux-x86" name="android_vendor_qcom_sdclang-3.9_linux-x86" remote="quantum-caf" groups="quantum"/>
   <project path="vendor/qcom/sdclang-4.0/linux-x86" name="android_vendor_qcom_sdclang-4.0_linux-x86" remote="quantum-caf" groups="quantum"/>
   <project path="vendor/quantum" name="android_vendor_quantum" remote="quantum-taimen" groups="quantum"/>
-<manifest/>
+</manifest>
