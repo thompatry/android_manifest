@@ -2,4 +2,4 @@
 <manifest>
   <remove-project name="platform/bootable/recovery"/>
   <project path="bootable/recovery" name="android_bootable_recovery" remote="quantum-caf" groups="quantum"/>
-<manifest/>
+</manifest>
