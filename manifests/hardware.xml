@@ -3,7 +3,7 @@
   <remove-project name="platform/hardware/interfaces"/>
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="quantum-caf" groups="quantum"/>
   <remove-project name="platform/hardware/libhardware"/>
-  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="quantum-caf" groups="quantum"/>
+  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="quantum-aosp" groups="quantum"/>
   <remove-project name="platform/hardware/ril"/>
   <project path="hardware/ril" name="android_hardware_ril" remote="quantum-caf" groups="quantum"/>
   <remove-project name="platform/hardware/qcom/audio"/>
